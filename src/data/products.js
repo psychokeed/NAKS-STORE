@@ -73,7 +73,7 @@ const products = [
       price: 3000,
       category: "Essential Fatty Acids",
       subcategory: "Pregnancy",
-      image: "public/preg omega plus.jpg",
+      image: "https://medpharm.co.za/wp-content/uploads/2023/07/PregOmega-Improved-Formulation.jpg",
       description: "Essential fatty acids for pregnancy support.",
       ingredients: "Omega-3 DHA, EPA, Vitamin E",
       dosage: "Take 1 softgel daily with a meal.",
